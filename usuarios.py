@@ -19,3 +19,4 @@ with open('usuarios.csv', 'w', newline='', encoding='utf-8') as archivo_csv:
     escritor.writerows(datos)
 
 print("Archivo 'usuarios.csv' generado correctamente.")
+print("Cambios para EPE2")
