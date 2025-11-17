@@ -1,0 +1,23 @@
+[
+  {
+    "id_usuario": 1,
+    "nombre": "Juan",
+    "visitas": 10,
+    "duracion_promedio": 5.2,
+    "contenido_mas_visitado": "Página de inicio"
+  },
+  {
+    "id_usuario": 2,
+    "nombre": "María",
+    "visitas": 8,
+    "duracion_promedio": 4.7,
+    "contenido_mas_visitado": "Página de productos"
+  },
+  {
+    "id_usuario": 3,
+    "nombre": "Carlos",
+    "visitas": 12,
+    "duracion_promedio": 6.3,
+    "contenido_mas_visitado": "Página de contacto"
+  }
+]
